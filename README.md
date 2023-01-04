@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+- [Acesse o projeto finalizado, online](https://avilaraiane.github.io/devlinks/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/2UqSfnYJEPMosGntOeAIK3/DevLinks-(Community)?node-id=0%3A1&t=rfth1lJelJbGiHYW-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
